@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/menu_of_title" android:title="File">
+        <menu>
+            <item android:title="New" android:id="@+id/menu_sm_new"/>
+            <item android:title="Save" android:id="@+id/menu_sm_save"/>
+            <item android:title="Load" android:id="@+id/menu_sm_load"/>
+            <item android:title="Edit" android:id="@+id/menu_sm_edit"/>
+        </menu>
+    </item>
+    <item android:id="@+id/menu_ot_Edit" android:title="Edit"/>
+    <item android:id="@+id/menu_ot_View" android:title="View"/>
+    <item android:id="@+id/menu_ot_Tool" android:title="Tool"/>
+
+</menu>
