@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BT2</string>
+    <string name="edit_text_hint">Data Output</string>
+</resources>
